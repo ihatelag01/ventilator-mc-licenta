@@ -1,0 +1,9 @@
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:104:18:virtual void touchgfx::Screen::afterTransition()	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:144:18:virtual void touchgfx::Screen::handleTickEvent()	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:154:18:virtual void touchgfx::Screen::handleKeyEvent(uint8_t)	0	static
+../../TouchGFX/gui/include/gui/secondscreen_screen/secondScreenView.hpp:11:13:secondScreenView::~secondScreenView()	0	static
+E:/ventilator-mc-licenta-main/ventilator-mc-licenta-main/TouchGFX/gui/src/secondscreen_screen/secondScreenView.cpp:14:6:virtual void secondScreenView::tearDownScreen()	0	static
+E:/ventilator-mc-licenta-main/ventilator-mc-licenta-main/TouchGFX/gui/src/secondscreen_screen/secondScreenView.cpp:9:6:virtual void secondScreenView::setupScreen()	0	static
+E:/ventilator-mc-licenta-main/ventilator-mc-licenta-main/TouchGFX/gui/src/secondscreen_screen/secondScreenView.cpp:18:6:virtual void secondScreenView::dataDisplay()	24	static
+../../TouchGFX/gui/include/gui/secondscreen_screen/secondScreenView.hpp:11:13:virtual secondScreenView::~secondScreenView()	8	static
+E:/ventilator-mc-licenta-main/ventilator-mc-licenta-main/TouchGFX/gui/src/secondscreen_screen/secondScreenView.cpp:4:1:secondScreenView::secondScreenView()	8	static

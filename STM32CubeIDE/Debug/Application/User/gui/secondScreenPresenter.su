@@ -1,0 +1,6 @@
+../../TouchGFX/gui/include/gui/secondscreen_screen/secondScreenPresenter.hpp:28:13:secondScreenPresenter::~secondScreenPresenter()	0	static
+E:/ventilator-mc-licenta-main/ventilator-mc-licenta-main/TouchGFX/gui/src/secondscreen_screen/secondScreenPresenter.cpp:10:6:virtual void secondScreenPresenter::activate()	0	static
+E:/ventilator-mc-licenta-main/ventilator-mc-licenta-main/TouchGFX/gui/src/secondscreen_screen/secondScreenPresenter.cpp:19:6:virtual void secondScreenPresenter::dataRxed()	0	static
+../../TouchGFX/gui/include/gui/secondscreen_screen/secondScreenPresenter.hpp:28:13:virtual secondScreenPresenter::~secondScreenPresenter()	8	static
+../../TouchGFX/gui/include/gui/secondscreen_screen/secondScreenPresenter.hpp:28:13:virtual void* secondScreenPresenter::_ZThn4_N21secondScreenPresenterD1Ev()	0	static
+E:/ventilator-mc-licenta-main/ventilator-mc-licenta-main/TouchGFX/gui/src/secondscreen_screen/secondScreenPresenter.cpp:4:1:secondScreenPresenter::secondScreenPresenter(secondScreenView&)	8	static

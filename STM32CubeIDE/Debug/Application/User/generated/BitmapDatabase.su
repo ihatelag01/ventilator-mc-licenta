@@ -1,0 +1,2 @@
+E:/ventilator-mc-licenta-main/ventilator-mc-licenta-main/TouchGFX/generated/images/src/BitmapDatabase.cpp:31:37:const touchgfx::Bitmap::BitmapData* BitmapDatabase::getInstance()	0	static
+E:/ventilator-mc-licenta-main/ventilator-mc-licenta-main/TouchGFX/generated/images/src/BitmapDatabase.cpp:36:10:uint16_t BitmapDatabase::getInstanceSize()	0	static
